@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagenmentSystem", "StudentManagenmentSystem\StudentManagenmentSystem.csproj", "{28FB0336-EB68-4DBD-8A33-1D833508B899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28FB0336-EB68-4DBD-8A33-1D833508B899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FB0336-EB68-4DBD-8A33-1D833508B899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FB0336-EB68-4DBD-8A33-1D833508B899}.Debug|x64.ActiveCfg = Debug|x64
+		{28FB0336-EB68-4DBD-8A33-1D833508B899}.Debug|x64.Build.0 = Debug|x64
+		{28FB0336-EB68-4DBD-8A33-1D833508B899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FB0336-EB68-4DBD-8A33-1D833508B899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FB0336-EB68-4DBD-8A33-1D833508B899}.Release|x64.ActiveCfg = Release|x64
+		{28FB0336-EB68-4DBD-8A33-1D833508B899}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8156848-4327-447A-ABAC-9A9085DA982B}
+	EndGlobalSection
+EndGlobal
